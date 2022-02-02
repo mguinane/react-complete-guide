@@ -1,1 +1,1 @@
-## Code project for Udemy React - The Complete Guide course
+## Course sections 3-5
